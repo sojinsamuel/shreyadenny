@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-## 🙎‍♀️ About Me
+## About Me<img src="https://camo.githubusercontent.com/0ddf4084d3037151719031374b5cf45f73513c847622268e9af9110d3a7f7e68/68747470733a2f2f63646e322e736372617463682e6d69742e6564752f6765745f696d6167652f757365722f36373834343537375f36307836302e706e67" width="70px"> 
 
 <br/>
 
@@ -28,7 +28,7 @@
 <br/>
 
 
-## 🚀 Languages and Tools:
+## Languages and Tools <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="50px"> 
 
 <br/>
 
@@ -53,7 +53,7 @@
 
 
 
-## 📊 My Github Stats
+##  Stats <img src="https://camo.githubusercontent.com/1ecbe12a1569a272510c2e02dafe718838b736de234b1baf24bed9dc35dd6eb8/68747470733a2f2f7468656c696e6b6e65777370617065722e63612f696d616765732f61727469636c65732f566f6c756d655f33362f5370656369616c2f5f726573697a65642f6d6564696164656d2e706f6c6c732e4c617572614c616c6f6e64652e676966" width="70px"> 
 
   <br/>
     <a href="https://github.com/shreyadenny/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=shreyadenny&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a><br/><br/>
