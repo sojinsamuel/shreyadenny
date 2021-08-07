@@ -71,7 +71,7 @@
 <br/>
 <br/>
 
-## Connect with me:
+## Find me around the web <img src="https://media4.giphy.com/media/3tLfKrc4pLWiTkAAph/giphy.gif?cid=6c09b952f5154cce3ebeac8cbd2a15f3a159d87bc8fe5957&rid=giphy.gif&ct=s" width="50px">
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/shreyadenny/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -79,6 +79,14 @@
 
 
 </p>
+
+<!-- <br/>
+<br/>
+
+<p>
+
+
+</p> -->
 
 <!-- ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
