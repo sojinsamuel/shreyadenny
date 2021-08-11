@@ -11,6 +11,7 @@
 
 <br/>
 
+- 📄 Here's my <a href="https://drive.google.com/file/d/1_msVQ6bhbEiZeJq0KMZfKxQ0y55tvEbK/view" target="_blank">**Resume**</a>
 - 💻 I have some experience in <b>Android evelopment</b> 
 
 - 📫 Currently, I'm practicing <b>Data Structures and Algorithms</b>
