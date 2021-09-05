@@ -41,7 +41,8 @@
     <a href="https://isocpp.org/about"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a> <a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a> 
      <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>   <a href="https://www.sqlite.org/index.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" alt="sqlite" width="48" height="48"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
    
     
