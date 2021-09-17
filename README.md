@@ -7,8 +7,7 @@
 <br/>
 <br/>
 
-## About Me<img src="https://camo.githubusercontent.com/0ddf4084d3037151719031374b5cf45f73513c847622268e9af9110d3a7f7e68/68747470733a2f2f63646e322e736372617463682e6d69742e6564752f6765745f696d6167652f757365722f36373834343537375f36307836302e706e67" width="70px"> 
-
+## About Me
 <br/>
 
 - 📄 Here's my <a href="https://drive.google.com/file/d/1_msVQ6bhbEiZeJq0KMZfKxQ0y55tvEbK/view" target="_blank">**Resume**</a>
