@@ -19,7 +19,7 @@
 
 - 📞 Feel free to reach me at **shreyadenny5@gmail.com**
 
-- 🌱 When away from keyboard, I like listening to music, go biking or reading books.
+- 🌱 When away from keyboard, I like listening to music, watching web shows and reading books.
   
 
 
